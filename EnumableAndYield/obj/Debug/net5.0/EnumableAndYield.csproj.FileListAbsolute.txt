@@ -1,0 +1,16 @@
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.exe
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.deps.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.runtimeconfig.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.runtimeconfig.dev.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\ref\EnumableAndYield.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\bin\Debug\net5.0\EnumableAndYield.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.AssemblyInfoInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.AssemblyInfo.cs
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.csproj.CoreCompileInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\ref\EnumableAndYield.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.genruntimeconfig.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\EnumableAndYield\obj\Debug\net5.0\EnumableAndYield.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.exe
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.deps.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.runtimeconfig.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.runtimeconfig.dev.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\ref\DefindALinQ.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\bin\Debug\net5.0\DefindALinQ.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.AssemblyInfoInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.AssemblyInfo.cs
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.csproj.CoreCompileInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\ref\DefindALinQ.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.genruntimeconfig.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\DefindALinQ\obj\Debug\net5.0\DefindALinQ.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.exe
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.deps.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.runtimeconfig.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.runtimeconfig.dev.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\ref\GenericExtensionMethod.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\bin\Debug\net5.0\GenericExtensionMethod.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.csprojAssemblyReference.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.AssemblyInfo.cs
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\ref\GenericExtensionMethod.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\GenericExtensionMethod\obj\Debug\net5.0\GenericExtensionMethod.genruntimeconfig.cache

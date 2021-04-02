@@ -1,0 +1,16 @@
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.exe
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.deps.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.runtimeconfig.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.runtimeconfig.dev.json
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\ref\CSharpAdvanced.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\bin\Debug\net5.0\CSharpAdvanced.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.csprojAssemblyReference.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.AssemblyInfo.cs
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\ref\CSharpAdvanced.dll
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.pdb
+C:\Users\nguyenductiep\source\repos\TrainingC#\UsingBlocks\obj\Debug\net5.0\CSharpAdvanced.genruntimeconfig.cache
